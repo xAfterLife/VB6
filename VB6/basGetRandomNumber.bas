@@ -1,4 +1,4 @@
-Attribute VB_Name = "GerRandomNumber"
+Attribute VB_Name = "GetRandomNumber"
 Option Explicit
 
 Public Function Random(MinValue As Integer, MaxValue As Integer) As Integer
